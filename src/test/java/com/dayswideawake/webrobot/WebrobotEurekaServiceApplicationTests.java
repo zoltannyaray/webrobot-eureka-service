@@ -1,4 +1,4 @@
-package com.dayswideawake;
+package com.dayswideawake.webrobot;
 
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.testng.AbstractTestNGSpringContextTests;
